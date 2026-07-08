@@ -1,5 +1,17 @@
+import { useEffect } from "react";
+import { getContacts } from "../api/contactApi";
+
 function ContactPage() {
-  return <h1>Contact Information Page</h1>;
+  useEffect(() => {
+    async function loadContacts() {
+      const contacts = await getContacts();
+      console.log(contacts);
+    }
+
+    loadContacts();
+  }, []);
+
+  return <h1>Contact Information</h1>;
 }
 
 export default ContactPage;

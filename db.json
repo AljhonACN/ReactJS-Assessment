@@ -1,0 +1,20 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "phone": "09171234567"
+    }
+  ],
+
+  "transactions": [
+    {
+      "id": 1,
+      "contactId": 1,
+      "date": "2026-07-08",
+      "merchant": "Store A",
+      "amount": 500
+    }
+  ]
+}
