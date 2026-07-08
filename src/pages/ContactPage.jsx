@@ -1,11 +1,13 @@
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { getContacts } from "../api/contactApi";
 
 function ContactPage() {
+  const [contacts, setContacts] = useState([]);
+
   useEffect(() => {
     async function loadContacts() {
-      const contacts = await getContacts();
-      console.log(contacts);
+      const data = await getContacts();
+      setContacts(data);
     }
 
     loadContacts();
