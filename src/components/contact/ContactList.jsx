@@ -1,10 +1,15 @@
-function ContactList({ contacts }) {
+import ContactCard from "./ContactCard";
+
+function ContactList({ contacts, onEdit, onDelete }) {
   return (
     <>
       {contacts.map((contact) => (
-        <div key={contact.id}>
-          <h3>{contact.name}</h3>
-        </div>
+        <ContactCard
+          key={contact.id}
+          contact={contact}
+          onEdit={onEdit}
+          onDelete={onDelete}
+        />
       ))}
     </>
   );

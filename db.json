@@ -1,20 +1,1077 @@
 {
   "contacts": [
     {
-      "id": 1,
-      "name": "John Doe",
-      "email": "john@gmail.com",
-      "phone": "09171234567"
+      "name": "Juan Dela Cruz",
+      "username": "juandc",
+      "email": "juan.delacruz@example.com",
+      "phone": "0917 111 2525",
+      "website": "juandc.com",
+      "status": "Active",
+      "address": {
+        "street": "Rizal Avenue",
+        "suite": "Room 5A",
+        "city": "Quezon City",
+        "zipcode": "1100"
+      },
+      "company": {
+        "name": "Cruz Enterprises",
+        "catchPhrase": "Building bridges through technology",
+        "bs": "empower digital transformation"
+      },
+      "id": "juan25act"
+    },
+    {
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "phone": "0917 692 6593",
+      "website": "anastasia.net",
+      "status": "Inactive",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771"
+      },
+      "company": {
+        "name": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      },
+      "id": "2"
+    },
+    {
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "phone": "0918 463 1234",
+      "website": "ramiro.info",
+      "status": "Active",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157"
+      },
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      },
+      "id": "3"
+    },
+    {
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "phone": "0919 170 9623",
+      "website": "kale.biz",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-42571"
+      },
+      "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      },
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263",
+        "geo": {
+          "lat": "-31.8129",
+          "lng": "62.5342"
+        }
+      },
+      "phone": "0920 954 1289",
+      "website": "demarco.info",
+      "company": {
+        "name": "Keebler LLC",
+        "catchPhrase": "User-centric fault-tolerant solution",
+        "bs": "revolutionize end-to-end systems"
+      }
+    },
+    {
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "phone": "0921 067 6132",
+      "website": "elvis.io",
+      "status": "Active",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099"
+      },
+      "company": {
+        "name": "Johns Group",
+        "catchPhrase": "Configurable multimedia task-force",
+        "bs": "generate enterprise e-tailer"
+      },
+      "id": "7"
+    },
+    {
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "phone": "0922 493 6943",
+      "website": "jacynthe.com",
+      "status": "Inactive",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169"
+      },
+      "company": {
+        "name": "Abernathy Group",
+        "catchPhrase": "Implemented secondary concept",
+        "bs": "e-enable extensible e-tailers"
+      },
+      "id": "8"
+    },
+    {
+      "id": "9",
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109",
+        "geo": {
+          "lat": "24.6463",
+          "lng": "-168.8889"
+        }
+      },
+      "phone": "0923 976 6794",
+      "website": "conrad.com",
+      "company": {
+        "name": "Yost and Sons",
+        "catchPhrase": "Switchable contextually-based project",
+        "bs": "aggregate real-time technologies"
+      }
+    },
+    {
+      "id": "10",
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261",
+        "geo": {
+          "lat": "-38.2386",
+          "lng": "57.2232"
+        }
+      },
+      "phone": "0924 648 3804",
+      "website": "ambrose.net",
+      "company": {
+        "name": "Hoeger LLC",
+        "catchPhrase": "Centralized empowering task-force",
+        "bs": "target end-to-end models"
+      }
+    },
+    {
+      "name": "aljhon2",
+      "username": "asdef",
+      "email": "aljhondelatorre25@gmail.com",
+      "phone": "0999 123 4567",
+      "website": "sasa.com",
+      "status": "Inactive",
+      "address": {
+        "street": "sa",
+        "suite": "as",
+        "city": "assa",
+        "zipcode": "123"
+      },
+      "company": {
+        "name": "1",
+        "catchPhrase": "123",
+        "bs": "12123"
+      },
+      "id": "LF6Wv3W0oBA"
+    },
+    {
+      "name": "a",
+      "username": "s",
+      "email": "a@gmail.com",
+      "phone": "0917 555 1234",
+      "website": "a.com",
+      "status": "Active",
+      "address": {
+        "street": "asdasda",
+        "suite": "asd",
+        "city": "asd",
+        "zipcode": "1234"
+      },
+      "company": {
+        "name": "asd",
+        "catchPhrase": "asd",
+        "bs": "asd"
+      },
+      "id": "lM3O2xt199w"
+    },
+    {
+      "name": "test1",
+      "username": "test",
+      "email": "test@example.com",
+      "phone": "0918 777 9999",
+      "website": "test.com",
+      "status": "Active",
+      "address": {
+        "street": "test",
+        "suite": "test",
+        "city": "test",
+        "zipcode": "1234"
+      },
+      "company": {
+        "name": "test",
+        "catchPhrase": "test",
+        "bs": "test"
+      },
+      "id": "ON_yabM_cNk"
+    },
+    {
+      "id": "11",
+      "name": "Sophia Martinez",
+      "email": "sophia.martinez@example.com",
+      "phone": "09171234511",
+      "company": "TechWave Solutions"
+    },
+    {
+      "id": "12",
+      "name": "Liam Johnson",
+      "email": "liam.johnson@example.com",
+      "phone": "09171234512",
+      "company": "Digital Nexus"
+    },
+    {
+      "id": "13",
+      "name": "Olivia Brown",
+      "email": "olivia.brown@example.com",
+      "phone": "09171234513",
+      "company": "CloudWare Inc."
+    },
+    {
+      "id": "14",
+      "name": "Noah Davis",
+      "email": "noah.davis@example.com",
+      "phone": "09171234514",
+      "company": "Innovate Labs"
+    },
+    {
+      "id": "15",
+      "name": "Emma Wilson",
+      "email": "emma.wilson@example.com",
+      "phone": "09171234515",
+      "company": "NextGen Systems"
+    },
+    {
+      "id": "16",
+      "name": "James Taylor",
+      "email": "james.taylor@example.com",
+      "phone": "09171234516",
+      "company": "Vertex Solutions"
+    },
+    {
+      "id": "17",
+      "name": "Ava Anderson",
+      "email": "ava.anderson@example.com",
+      "phone": "09171234517",
+      "company": "SmartLink Corp."
+    },
+    {
+      "id": "18",
+      "name": "William Thomas",
+      "email": "william.thomas@example.com",
+      "phone": "09171234518",
+      "company": "BrightPath Consulting"
+    },
+    {
+      "id": "19",
+      "name": "Isabella Jackson",
+      "email": "isabella.jackson@example.com",
+      "phone": "09171234519",
+      "company": "CoreLogic Systems"
+    },
+    {
+      "id": "20",
+      "name": "Benjamin White",
+      "email": "benjamin.white@example.com",
+      "phone": "09171234520",
+      "company": "FutureTech Ltd."
+    },
+    {
+      "id": "21",
+      "name": "Mia Harris",
+      "email": "mia.harris@example.com",
+      "phone": "09171234521",
+      "company": "BlueOcean Software"
+    },
+    {
+      "name": "Lucas Martin",
+      "username": "",
+      "email": "lucas.martin@example.com",
+      "phone": "09171234522",
+      "website": "",
+      "status": "Active",
+      "address": {
+        "street": "",
+        "suite": "",
+        "city": "",
+        "zipcode": ""
+      },
+      "company": {
+        "name": "",
+        "catchPhrase": "",
+        "bs": ""
+      },
+      "id": "22"
+    },
+    {
+      "id": "23",
+      "name": "Charlotte Thompson",
+      "email": "charlotte.thompson@example.com",
+      "phone": "09171234523",
+      "company": "Prime Solutions"
+    },
+    {
+      "id": "24",
+      "name": "Henry Garcia",
+      "email": "henry.garcia@example.com",
+      "phone": "09171234524",
+      "company": "DataBridge Corp."
+    },
+    {
+      "id": "25",
+      "name": "Amelia Martinez",
+      "email": "amelia.martinez@example.com",
+      "phone": "09171234525",
+      "company": "GlobalSoft"
+    },
+    {
+      "id": "26",
+      "name": "Alexander Robinson",
+      "email": "alex.robinson@example.com",
+      "phone": "09171234526",
+      "company": "Visionary Tech"
+    },
+    {
+      "id": "27",
+      "name": "Harper Clark",
+      "email": "harper.clark@example.com",
+      "phone": "09171234527",
+      "company": "InfoSphere"
+    },
+    {
+      "id": "28",
+      "name": "Michael Rodriguez",
+      "email": "michael.rodriguez@example.com",
+      "phone": "09171234528",
+      "company": "Pioneer Systems"
+    },
+    {
+      "id": "29",
+      "name": "Evelyn Lewis",
+      "email": "evelyn.lewis@example.com",
+      "phone": "09171234529",
+      "company": "Skyline Technologies"
+    },
+    {
+      "id": "30",
+      "name": "Daniel Walker",
+      "email": "daniel.walker@example.com",
+      "phone": "09171234530",
+      "company": "Infinity Solutions"
+    },
+    {
+      "name": "no contactnumber",
+      "username": "nocontactnum",
+      "email": "nocontact@contact.com",
+      "phone": "",
+      "website": "nocontact.com",
+      "status": "Active",
+      "address": {
+        "street": "",
+        "suite": "",
+        "city": "",
+        "zipcode": ""
+      },
+      "company": {
+        "name": "",
+        "catchPhrase": "",
+        "bs": ""
+      },
+      "id": "dE5humRt5fo"
+    },
+    {
+      "name": "Maria Santos",
+      "username": "mariasantos",
+      "email": "maria.santos@example.com",
+      "phone": "0917 888 2020",
+      "website": "mariasantos.com",
+      "status": "Active",
+      "address": {
+        "street": "Mabini Street",
+        "suite": "Unit 12B",
+        "city": "Makati City",
+        "zipcode": "1200"
+      },
+      "company": {
+        "name": "Santos Digital Agency",
+        "catchPhrase": "Creative solutions that scale",
+        "bs": "deliver end-to-end digital experiences"
+      },
+      "id": "maria20act"
+    },
+    {
+      "name": "aljhon",
+      "username": "alj",
+      "email": "",
+      "phone": "09947684138",
+      "website": "",
+      "status": "Active",
+      "address": {
+        "street": "",
+        "suite": "",
+        "city": "",
+        "zipcode": ""
+      },
+      "company": {
+        "name": "",
+        "catchPhrase": "",
+        "bs": ""
+      },
+      "id": "TQmObg_uJQo"
     }
   ],
-
-  "transactions": [
+  "activities": [
     {
-      "id": 1,
-      "contactId": 1,
+      "id": "b201",
+      "contactId": "juan25act",
+      "date": "2026-06-01",
+      "type": "Call",
+      "description": "First contact and needs assessment."
+    },
+    {
+      "id": "b202",
+      "contactId": "juan25act",
+      "date": "2026-06-02",
+      "type": "Email",
+      "description": "Sent company brochure."
+    },
+    {
+      "id": "b203",
+      "contactId": "juan25act",
+      "date": "2026-06-03",
+      "type": "Meeting",
+      "description": "Discovery meeting on requirements."
+    },
+    {
+      "id": "b204",
+      "contactId": "juan25act",
+      "date": "2026-06-04",
+      "type": "Note",
+      "description": "Logged initial budget estimate."
+    },
+    {
+      "id": "b205",
+      "contactId": "juan25act",
+      "date": "2026-06-05",
+      "type": "Email",
+      "description": "Shared draft proposal."
+    },
+    {
+      "id": "b206",
+      "contactId": "juan25act",
+      "date": "2026-06-06",
+      "type": "Call",
+      "description": "Answered proposal questions."
+    },
+    {
+      "id": "b207",
+      "contactId": "juan25act",
+      "date": "2026-06-07",
+      "type": "Meeting",
+      "description": "Reviewed proposal revisions."
+    },
+    {
+      "id": "b208",
+      "contactId": "juan25act",
+      "date": "2026-06-08",
+      "type": "Note",
+      "description": "Approved phase one scope."
+    },
+    {
+      "id": "b209",
+      "contactId": "juan25act",
+      "date": "2026-06-09",
+      "type": "Email",
+      "description": "Sent signed agreement."
+    },
+    {
+      "id": "b210",
+      "contactId": "juan25act",
+      "date": "2026-06-10",
+      "type": "Call",
+      "description": "Scheduled kickoff."
+    },
+    {
+      "id": "b211",
+      "contactId": "juan25act",
+      "date": "2026-06-11",
+      "type": "Meeting",
+      "description": "Project kickoff session."
+    },
+    {
+      "id": "b212",
+      "contactId": "juan25act",
+      "date": "2026-06-12",
+      "type": "Note",
+      "description": "Recorded design preferences."
+    },
+    {
+      "id": "b213",
+      "contactId": "juan25act",
+      "date": "2026-06-13",
+      "type": "Email",
+      "description": "Delivered wireframes."
+    },
+    {
+      "id": "b214",
+      "contactId": "juan25act",
+      "date": "2026-06-14",
+      "type": "Call",
+      "description": "Collected wireframe feedback."
+    },
+    {
+      "id": "b215",
+      "contactId": "juan25act",
+      "date": "2026-06-15",
+      "type": "Meeting",
+      "description": "Sprint one review."
+    },
+    {
+      "id": "b216",
+      "contactId": "juan25act",
+      "date": "2026-06-16",
+      "type": "Note",
+      "description": "Documented sprint one results."
+    },
+    {
+      "id": "b217",
+      "contactId": "juan25act",
+      "date": "2026-06-17",
+      "type": "Email",
+      "description": "Sent progress report."
+    },
+    {
+      "id": "b218",
+      "contactId": "juan25act",
+      "date": "2026-06-18",
+      "type": "Call",
+      "description": "Discussed change request."
+    },
+    {
+      "id": "b219",
+      "contactId": "juan25act",
+      "date": "2026-06-19",
+      "type": "Meeting",
+      "description": "Sprint two planning."
+    },
+    {
+      "id": "b220",
+      "contactId": "juan25act",
+      "date": "2026-06-20",
+      "type": "Note",
+      "description": "Updated timeline."
+    },
+    {
+      "id": "b221",
+      "contactId": "juan25act",
+      "date": "2026-06-21",
+      "type": "Email",
+      "description": "Shared beta build link."
+    },
+    {
+      "id": "b222",
+      "contactId": "juan25act",
+      "date": "2026-06-22",
+      "type": "Call",
+      "description": "Beta feedback session."
+    },
+    {
+      "id": "b223",
+      "contactId": "juan25act",
+      "date": "2026-06-23",
+      "type": "Meeting",
+      "description": "Final review before launch."
+    },
+    {
+      "id": "b224",
+      "contactId": "juan25act",
+      "date": "2026-06-24",
+      "type": "Note",
+      "description": "Signed off on delivery."
+    },
+    {
+      "id": "b225",
+      "contactId": "juan25act",
+      "date": "2026-06-25",
+      "type": "Email",
+      "description": "Sent final invoice and thank you."
+    },
+    {
+      "id": "1",
+      "contactId": 2,
+      "date": "2026-07-01",
+      "type": "Call",
+      "description": "Discussed contact information and confirmed phone number."
+    },
+    {
+      "id": "2",
+      "contactId": 2,
+      "date": "2026-07-03",
+      "type": "Email",
+      "description": "Sent follow-up email regarding profile update."
+    },
+    {
+      "id": "3",
+      "contactId": 2,
+      "date": "2026-07-05",
+      "type": "Meeting",
+      "description": "Reviewed company and address details."
+    },
+    {
+      "id": "4",
+      "contactId": 3,
+      "date": "2026-07-02",
+      "type": "Email",
+      "description": "Sent welcome message."
+    },
+    {
+      "id": "5",
+      "contactId": 3,
+      "date": "2026-07-06",
+      "type": "Call",
+      "description": "Verified website and contact email."
+    },
+    {
+      "id": "6",
+      "contactId": 4,
+      "date": "2026-07-01",
+      "type": "Note",
+      "description": "Added note about company information."
+    },
+    {
+      "id": "7",
+      "contactId": 4,
+      "date": "2026-07-04",
+      "type": "Email",
+      "description": "Sent contact profile confirmation."
+    },
+    {
+      "id": "8",
+      "contactId": 5,
+      "date": "2026-07-03",
+      "type": "Meeting",
+      "description": "Discussed business services and contact details."
+    },
+    {
+      "id": "9",
+      "contactId": 5,
+      "date": "2026-07-07",
+      "type": "Call",
+      "description": "Confirmed updated phone contact."
+    },
+    {
+      "id": "10",
+      "contactId": 7,
+      "date": "2026-07-02",
+      "type": "Email",
+      "description": "Sent contact record verification."
+    },
+    {
+      "id": "11",
+      "contactId": 7,
       "date": "2026-07-08",
-      "merchant": "Store A",
-      "amount": 500
+      "type": "Note",
+      "description": "Marked contact as active."
+    },
+    {
+      "id": "12",
+      "contactId": 8,
+      "date": "2026-07-01",
+      "type": "Call",
+      "description": "Confirmed address and company details."
+    },
+    {
+      "id": "13",
+      "contactId": 8,
+      "date": "2026-07-05",
+      "type": "Email",
+      "description": "Sent profile update notice."
+    },
+    {
+      "id": "14",
+      "contactId": 9,
+      "date": "2026-07-03",
+      "type": "Meeting",
+      "description": "Reviewed website and company profile."
+    },
+    {
+      "id": "15",
+      "contactId": 9,
+      "date": "2026-07-06",
+      "type": "Note",
+      "description": "Added follow-up reminder."
+    },
+    {
+      "id": "16",
+      "contactId": 10,
+      "date": "2026-07-02",
+      "type": "Email",
+      "description": "Sent initial contact message."
+    },
+    {
+      "id": "17",
+      "contactId": 10,
+      "date": "2026-07-07",
+      "type": "Call",
+      "description": "Discussed company information."
+    },
+    {
+      "id": "1",
+      "contactId": "2",
+      "date": "2026-07-01",
+      "type": "Call",
+      "description": "Discussed contact information and confirmed phone number."
+    },
+    {
+      "id": "2",
+      "contactId": "2",
+      "date": "2026-07-03",
+      "type": "Email",
+      "description": "Sent follow-up email regarding profile update."
+    },
+    {
+      "id": "3",
+      "contactId": "2",
+      "date": "2026-07-05",
+      "type": "Meeting",
+      "description": "Reviewed company and address details."
+    },
+    {
+      "id": "4",
+      "contactId": "3",
+      "date": "2026-07-02",
+      "type": "Email",
+      "description": "Sent welcome message to Clementine Bauch."
+    },
+    {
+      "id": "5",
+      "contactId": "3",
+      "date": "2026-07-06",
+      "type": "Call",
+      "description": "Verified website and contact email."
+    },
+    {
+      "id": "6",
+      "contactId": "4",
+      "date": "2026-07-01",
+      "type": "Note",
+      "description": "Added note about company information."
+    },
+    {
+      "id": "7",
+      "contactId": "4",
+      "date": "2026-07-04",
+      "type": "Email",
+      "description": "Sent contact profile confirmation."
+    },
+    {
+      "id": "8",
+      "contactId": "5",
+      "date": "2026-07-03",
+      "type": "Meeting",
+      "description": "Discussed business services and contact details."
+    },
+    {
+      "id": "9",
+      "contactId": "5",
+      "date": "2026-07-07",
+      "type": "Call",
+      "description": "Confirmed updated phone contact."
+    },
+    {
+      "id": "10",
+      "contactId": "7",
+      "date": "2026-07-02",
+      "type": "Email",
+      "description": "Sent contact record verification."
+    },
+    {
+      "id": "11",
+      "contactId": "7",
+      "date": "2026-07-08",
+      "type": "Note",
+      "description": "Marked contact as active."
+    },
+    {
+      "id": "12",
+      "contactId": "8",
+      "date": "2026-07-01",
+      "type": "Call",
+      "description": "Confirmed address and company details."
+    },
+    {
+      "id": "13",
+      "contactId": "8",
+      "date": "2026-07-05",
+      "type": "Email",
+      "description": "Sent profile update notice."
+    },
+    {
+      "id": "14",
+      "contactId": "9",
+      "date": "2026-07-03",
+      "type": "Meeting",
+      "description": "Reviewed website and company profile."
+    },
+    {
+      "id": "15",
+      "contactId": "9",
+      "date": "2026-07-06",
+      "type": "Note",
+      "description": "Added follow-up reminder."
+    },
+    {
+      "id": "16",
+      "contactId": "10",
+      "date": "2026-07-02",
+      "type": "Email",
+      "description": "Sent initial contact message."
+    },
+    {
+      "id": "17",
+      "contactId": "10",
+      "date": "2026-07-04",
+      "type": "Call",
+      "description": "Discussed company information."
+    },
+    {
+      "id": "18",
+      "contactId": "10",
+      "date": "2026-07-06",
+      "type": "Note",
+      "description": "Updated contact profile notes."
+    },
+    {
+      "id": "19",
+      "contactId": "10",
+      "date": "2026-07-08",
+      "type": "Meeting",
+      "description": "Confirmed contact address and email."
+    },
+    {
+      "id": "20",
+      "contactId": "LF6Wv3W0oBA",
+      "date": "2026-07-02",
+      "type": "Call",
+      "description": "Onboarding call with aljhon2."
+    },
+    {
+      "id": "21",
+      "contactId": "LF6Wv3W0oBA",
+      "date": "2026-07-05",
+      "type": "Email",
+      "description": "Sent account setup instructions."
+    },
+    {
+      "id": "22",
+      "contactId": "lM3O2xt199w",
+      "date": "2026-07-03",
+      "type": "Note",
+      "description": "Created contact record."
+    },
+    {
+      "id": "23",
+      "contactId": "lM3O2xt199w",
+      "date": "2026-07-07",
+      "type": "Email",
+      "description": "Sent welcome email."
+    },
+    {
+      "id": "24",
+      "contactId": "ON_yabM_cNk",
+      "date": "2026-07-01",
+      "type": "Meeting",
+      "description": "Initial test meeting scheduled."
+    },
+    {
+      "id": "25",
+      "contactId": "ON_yabM_cNk",
+      "date": "2026-07-06",
+      "type": "Call",
+      "description": "Follow-up call to confirm details."
+    },
+    {
+      "id": "a101",
+      "contactId": "maria20act",
+      "date": "2026-07-01",
+      "type": "Call",
+      "description": "Initial discovery call about project scope."
+    },
+    {
+      "id": "a102",
+      "contactId": "maria20act",
+      "date": "2026-07-01",
+      "type": "Email",
+      "description": "Sent introductory email with company overview."
+    },
+    {
+      "id": "a103",
+      "contactId": "maria20act",
+      "date": "2026-07-02",
+      "type": "Meeting",
+      "description": "Kickoff meeting to align on goals."
+    },
+    {
+      "id": "a104",
+      "contactId": "maria20act",
+      "date": "2026-07-02",
+      "type": "Note",
+      "description": "Logged client preferences and budget range."
+    },
+    {
+      "id": "a105",
+      "contactId": "maria20act",
+      "date": "2026-07-03",
+      "type": "Email",
+      "description": "Shared proposal draft for review."
+    },
+    {
+      "id": "a106",
+      "contactId": "maria20act",
+      "date": "2026-07-03",
+      "type": "Call",
+      "description": "Clarified proposal questions over the phone."
+    },
+    {
+      "id": "a107",
+      "contactId": "maria20act",
+      "date": "2026-07-04",
+      "type": "Meeting",
+      "description": "Presented revised proposal in person."
+    },
+    {
+      "id": "a108",
+      "contactId": "maria20act",
+      "date": "2026-07-04",
+      "type": "Note",
+      "description": "Recorded approval of phase one."
+    },
+    {
+      "id": "a109",
+      "contactId": "maria20act",
+      "date": "2026-07-05",
+      "type": "Email",
+      "description": "Sent signed contract confirmation."
+    },
+    {
+      "id": "a110",
+      "contactId": "maria20act",
+      "date": "2026-07-05",
+      "type": "Call",
+      "description": "Scheduled onboarding session."
+    },
+    {
+      "id": "a111",
+      "contactId": "maria20act",
+      "date": "2026-07-06",
+      "type": "Meeting",
+      "description": "Conducted onboarding walkthrough."
+    },
+    {
+      "id": "a112",
+      "contactId": "maria20act",
+      "date": "2026-07-06",
+      "type": "Note",
+      "description": "Noted requested design revisions."
+    },
+    {
+      "id": "a113",
+      "contactId": "maria20act",
+      "date": "2026-07-07",
+      "type": "Email",
+      "description": "Delivered first design mockups."
+    },
+    {
+      "id": "a114",
+      "contactId": "maria20act",
+      "date": "2026-07-07",
+      "type": "Call",
+      "description": "Gathered feedback on mockups."
+    },
+    {
+      "id": "a115",
+      "contactId": "maria20act",
+      "date": "2026-07-08",
+      "type": "Meeting",
+      "description": "Reviewed development progress."
+    },
+    {
+      "id": "a116",
+      "contactId": "maria20act",
+      "date": "2026-07-08",
+      "type": "Note",
+      "description": "Documented milestone completion."
+    },
+    {
+      "id": "a117",
+      "contactId": "maria20act",
+      "date": "2026-07-09",
+      "type": "Email",
+      "description": "Sent invoice for phase one."
+    },
+    {
+      "id": "a118",
+      "contactId": "maria20act",
+      "date": "2026-07-09",
+      "type": "Call",
+      "description": "Confirmed payment received."
+    },
+    {
+      "id": "a119",
+      "contactId": "maria20act",
+      "date": "2026-07-10",
+      "type": "Meeting",
+      "description": "Planned phase two roadmap."
+    },
+    {
+      "id": "a120",
+      "contactId": "maria20act",
+      "date": "2026-07-10",
+      "type": "Note",
+      "description": "Closed out phase one summary."
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
